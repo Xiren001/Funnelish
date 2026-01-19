@@ -1,0 +1,155 @@
+Every time the funnel mentions any country, make sure it’s South Africa
+
+The South African flag must be used throughout the funnel, never a different one
+
+Press Cmd+F / Ctrl+F and search for the competitor brand name: Replace every instance with BioEdge™ (including tiny text, testimonials, footers, etc.)
+note: change only the text not the links or images
+
+Please convert the currency to ZAR R, convert the price into ZAR
+
+The competitor’s support email has to be re-written to ours: info@thebioedge.co and remove the number if there is
+
+
+---------------------------------------------------
+
+
+You're a native spanish speaker and a copywriter with 10 years of experience. You're an expert in direct response copywriting. Your job is to improve this funnel in Spanish so it's more persuasive, more urgent, and clearer, while keeping it natural and conversational. Only translate and improve the following funnel, don't explain anything.
+Rules:
+Do not change meaning
+Keep it natural for native speakers
+Keep urgency and persuasion
+translate all text, text buttons, headlines, paragraphs, testimonials, footers, checkboxes, buttons, faq, all text the will be seen in the website.
+
+Every time the funnel mentions any country, make sure it’s Spain
+The Spain flag must be used throughout the funnel, never a different one, if none dont add
+Please convert the currency to EUR, convert the price into EUR
+
+
+
+You're a native german speaker and a copywriter with 10 years of experience. You're an expert in direct response copywriting. Your job is to improve this funnel in German so it's more persuasive, more urgent, and clearer, while keeping it natural and conversational. Only translate and improve the following funnel, don't explain anything.
+Rules:
+Do not change meaning
+Keep it natural for native speakers
+Keep urgency and persuasion
+translate all text, text buttons, headlines, paragraphs, testimonials, footers, checkboxes, buttons, faq, all text the will be seen in the website.
+
+Every time the funnel mentions any country, make sure it’s Germany
+The Germany flag must be used throughout the funnel, never a different one, if none dont add
+Please convert the currency to EUR, convert the price into EUR
+
+
+---------------------------------------------------
+ <h1 style="font-size: 44px; font-weight: bold; color:black;">BioEdge™ </h1>
+
+
+<style>
+    section .funnel-row{
+        max-width: 100% !important;
+    }
+    font {
+        display: inline;
+    }
+    .paragraph,
+    .paragraph-inner {
+        white-space: normal !important;
+    }
+</style>
+
+    <style>
+        section .funnel-row {
+          max-width: 100% !important;
+        }
+        font {
+          display: inline;
+        }
+        .paragraph,
+        .paragraph-inner {
+          white-space: normal !important;
+        }
+  
+        .headline-inner p, .headline-inner span, .headline-inner h3, .headline-inner h2, .headline-inner h1, .headline-inner h4, .headline-inner h5
+        {
+            white-space: normal !important;
+        }
+
+   .paragraph-inner p, .paragraph-inner span, .paragraph-inner h3, .paragraph-inner h2, .paragraph-inner h1, .paragraph-inner h4, .paragraph-inner h5
+        {
+            white-space: normal !important;
+        }
+        
+      </style>
+
+
+    <style>
+      section .funnel-row {
+        max-width: 100% !important;
+      }
+      font {
+        display: inline;
+      }
+      .paragraph,
+      .paragraph-inner {
+        white-space: normal !important;
+      }
+      .headline p, .headline span, .headline h3, .headline h2, .headline h1, .headline h4, .headline h5
+        {
+            white-space: normal !important;
+        }
+    </style>
+
+
+---------------------------------------------------
+
+<h1 style="font-size:44px color:green; font-weight:bold;">BioEase™</h1>
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Fast shipping & lifetime warranty
+Unique offer!from & lifetime warranty Delivery twice as fast • Money back guarantee! Everything for only R79  
+
+this part change it to 
+
+60 DAYS MONEY BACK GUARANTEE
+FREE SHIPPING
+
+and remove the check box replace it with check icon
+
+
+
+
+
+
+
+
+    <script>
+        window.addEventListener("contextmenu", (e) => {
+            e.preventDefault();
+        });
+        document.addEventListener("selectstart", (e) => {
+            e.preventDefault();
+        });
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('img').forEach(img => {
+                img.addEventListener('dragstart', function (e) {
+                    e.preventDefault();
+                })
+            })
+        })
+        function ctrlShiftKey(e, keyCode) {
+            return e.ctrlKey && e.shiftKey && e.keyCode === keyCode.charCodeAt(0);
+        }
+        document.addEventListener('keydown', function (e) {
+            if (
+                event.keyCode === 123 ||
+                ctrlShiftKey(e, 'I') ||
+                ctrlShiftKey(e, 'J') ||
+                ctrlShiftKey(e, 'C') ||
+                (e.ctrlKey && e.keyCode === 'U'.charCodeAt(0))
+            ) {
+                e.preventDefault();
+            }
+        })
+    </script>
