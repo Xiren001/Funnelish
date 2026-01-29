@@ -1,13 +1,17 @@
+
 Every time the funnel mentions any country, make sure it’s South Africa
 
-The South African flag must be used throughout the funnel, never a different one
-
-Press Cmd+F / Ctrl+F and search for the competitor brand name: Replace every instance with BioEdge™ (including tiny text, testimonials, footers, etc.)
+Search for the competitor brand name: Replace every instance with BioEdge™ (including tiny text, testimonials, footers, etc.)
 note: change only the text not the links or images
 
 Please convert the currency to ZAR R, convert the price into ZAR
 
 The competitor’s support email has to be re-written to ours: info@thebioedge.co and remove the number if there is
+
+and change the price (use offer 1 for the price outside the offer section) and change the link
+
+note use only the price 
+
 
 
 ---------------------------------------------------
@@ -38,6 +42,25 @@ The Germany flag must be used throughout the funnel, never a different one, if n
 Please convert the currency to EUR, convert the price into EUR
 
 
+
+
+
+
+
+
+Translate the content of this funnel from English to Spanish.
+
+Requirements:
+
+Keep the meaning accurate and natural for native speakers
+Maintain a professional, friendly website tone
+Do not translate brand names, product names, or URLs
+Keep headings, buttons, menus, and CTA text concise
+Preserve formatting, HTML tags, and placeholders ({{ }}, %s, etc.)
+Adapt idioms or phrases so they sound natural in the target language
+
+Output only the translated text, keeping the same structure.
+
 ---------------------------------------------------
  <h1 style="font-size: 44px; font-weight: bold; color:black;">BioEdge™ </h1>
 
@@ -53,7 +76,17 @@ Please convert the currency to EUR, convert the price into EUR
     .paragraph-inner {
         white-space: normal !important;
     }
+
+    .gradient {
+        max-width: 99.9% !important;
+    }
 </style>
+
+
+
+---------------------------------------------------
+
+
 
     <style>
         section .funnel-row {
@@ -78,22 +111,69 @@ Please convert the currency to EUR, convert the price into EUR
         }
         
       </style>
+      
+
+
+
+---------------------------------------------------
+
+
+
+
 
 
     <style>
-      section .funnel-row {
-        max-width: 100% !important;
-      }
-      font {
-        display: inline;
-      }
-      .paragraph,
-      .paragraph-inner {
-        white-space: normal !important;
-      }
-      .headline p, .headline span, .headline h3, .headline h2, .headline h1, .headline h4, .headline h5
-        {
+        section .funnel-row {
+            max-width: 100% !important;
+        }
+
+        font {
+            display: inline;
+        }
+
+        .paragraph,
+        .paragraph-inner {
             white-space: normal !important;
+        }
+
+        .headline-inner p,
+        .headline-inner span,
+        .headline-inner h3,
+        .headline-inner h2,
+        .headline-inner h1,
+        .headline-inner h4,
+        .headline-inner h5 {
+            white-space: normal !important;
+        }
+
+        .paragraph-inner p,
+        .paragraph-inner span,
+        .paragraph-inner h3,
+        .paragraph-inner h2,
+        .paragraph-inner h1,
+        .paragraph-inner h4,
+        .paragraph-inner h5 {
+            white-space: normal !important;
+        }
+
+        p,
+        span,
+        h3,
+        h2,
+        h1,
+        h4,
+        h5 {
+            white-space: normal !important;
+        }
+
+        strong {
+            white-space: normal !important;
+        }
+
+        @media screen and (max-width: 750px) {
+            .gradient {
+                max-width: 99.9% !important;
+            }
         }
     </style>
 
