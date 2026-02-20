@@ -43,12 +43,7 @@ Please convert the currency to EUR, convert the price into EUR
 
 
 
-
-
-
-
-
-Translate the content of this funnel from English to Spanish.
+Translate the content of this funnel from English to german.
 
 Requirements:
 
@@ -60,33 +55,50 @@ Preserve formatting, HTML tags, and placeholders ({{ }}, %s, etc.)
 Adapt idioms or phrases so they sound natural in the target language
 
 Output only the translated text, keeping the same structure.
+convert all price to Euro and the currency
+use python script
 
+
+can you translate all visible text from paragraph, header, list, buttons, testimonials, accordion, small text, footer, etc. to german
+
+---------------------------------------------------
+
+change the offer price to this
+
+
+
+OFFER 1: Buy 1 Get 1 Free
+• Total Units: 2
+• Selling Price: €29.99
+• Original Total (strikethrough): €119.99
+• Discount Badge: 75% OFF
+• Per Bottle Price: €14.99
+• You Save: €89.99
+
+OFFER 2: Buy 2 Get 2 Free
+• Total Units: 4
+• Selling Price: €49.99
+• Original Total (strikethrough): €239.99
+• Discount Badge: 79% OFF
+• Per Bottle Price: €11.99
+• You Save: €189.99
+
+OFFER 3: Buy 3 Get 3 Free
+• Total Units: 6
+• Selling Price: €69.99
+• Original Total (strikethrough): €359.99
+• Discount Badge: 81% OFF
+• Per Bottle Price: €11.99
+• You Save: €289.99
+
+
+
+use offer 1 for price outside the offer section
+convert also the other price outside the offer section
 ---------------------------------------------------
  <h1 style="font-size: 44px; font-weight: bold; color:black;">BioEdge™ </h1>
 
-
-<style>
-    section .funnel-row{
-        max-width: 100% !important;
-    }
-    font {
-        display: inline;
-    }
-    .paragraph,
-    .paragraph-inner {
-        white-space: normal !important;
-    }
-
-    .gradient {
-        max-width: 99.9% !important;
-    }
-</style>
-
-
-
 ---------------------------------------------------
-
-
 
     <style>
         section .funnel-row {
@@ -113,14 +125,7 @@ Output only the translated text, keeping the same structure.
       </style>
       
 
-
-
 ---------------------------------------------------
-
-
-
-
-
 
     <style>
         section .funnel-row {
@@ -199,11 +204,6 @@ and remove the check box replace it with check icon
 
 
 
-
-
-
-
-
     <script>
         window.addEventListener("contextmenu", (e) => {
             e.preventDefault();
@@ -232,4 +232,36 @@ and remove the check box replace it with check icon
                 e.preventDefault();
             }
         })
+    </script>
+
+
+
+accordion
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const faqHeaders = document.querySelectorAll('.faq-header');
+            faqHeaders.forEach(header => {
+                header.addEventListener('click', function () {
+                    const faq = this.closest('.faq');
+                    if (faq) {
+                        faq.classList.toggle('active');
+                        const content = faq.querySelector('.faq-content-wrapper');
+                        if (content) {
+                            if (faq.classList.contains('active')) {
+                                content.style.display = 'block';
+                            } else {
+                                content.style.display = 'none';
+                            }
+                        }
+                    }
+                });
+            });
+
+            // Set initial state for any FAQ with 'active' class
+            document.querySelectorAll('.faq.active').forEach(faq => {
+                const content = faq.querySelector('.faq-content-wrapper');
+                if (content) content.style.display = 'block';
+            });
+        });
     </script>
