@@ -1,7 +1,6 @@
+Every time the funnel mentions any country, place, location, make sure it’s South Africa
 
-Every time the funnel mentions any country, make sure it’s South Africa
-
-Search for the competitor brand name: Replace every instance with BioEdge™ (including tiny text, testimonials, footers, etc.)
+Search for the competitor brand name: Replace every instance with BioEdge™ and the product name is JOYPRETTY (including tiny text, testimonials, footers, etc.)
 note: change only the text not the links or images
 
 Please convert the currency to ZAR R, convert the price into ZAR
@@ -13,34 +12,44 @@ and change the price (use offer 1 for the price outside the offer section) and c
 note use only the price 
 
 
+OFFER 1: 
+• Total Units: 1
+• Selling Price: R549.99
+• Original Total (strikethrough): R1,099.99
+• Discount Badge: 50% OFF
+• Per Bottle Price: R549.99
+• You Save: R549.99
+https://thebioedge.co/en-za/cart/52053915369752:1
+
+OFFER 2: 
+• Total Units: 2
+• Selling Price: R629.99
+• Original Total (strikethrough): R2,199.99
+• Discount Badge: 71% OFF
+• Per Bottle Price: R314.99
+• You Save: R1,569.99
+https://thebioedge.co/en-za/cart/52053915402520:1
+
+OFFER 3: 
+• Total Units: 3
+• Selling Price: R699.99
+• Original Total (strikethrough): R3,299.99
+• Discount Badge: 79% OFF
+• Per Bottle Price: R232.99
+• You Save: R2,599.99
+https://thebioedge.co/en-za/cart/52053915435288:1
+
+OFFER 4: 
+• Total Units: 5
+• Selling Price: R799.99
+• Original Total (strikethrough): R5,499.99
+• Discount Badge: 85% OFF
+• Per Bottle Price: R159.99
+• You Save: R4,699.99
+https://thebioedge.co/en-za/cart/52053836988696:1
+
 
 ---------------------------------------------------
-
-
-You're a native spanish speaker and a copywriter with 10 years of experience. You're an expert in direct response copywriting. Your job is to improve this funnel in Spanish so it's more persuasive, more urgent, and clearer, while keeping it natural and conversational. Only translate and improve the following funnel, don't explain anything.
-Rules:
-Do not change meaning
-Keep it natural for native speakers
-Keep urgency and persuasion
-translate all text, text buttons, headlines, paragraphs, testimonials, footers, checkboxes, buttons, faq, all text the will be seen in the website.
-
-Every time the funnel mentions any country, make sure it’s Spain
-The Spain flag must be used throughout the funnel, never a different one, if none dont add
-Please convert the currency to EUR, convert the price into EUR
-
-
-
-You're a native german speaker and a copywriter with 10 years of experience. You're an expert in direct response copywriting. Your job is to improve this funnel in German so it's more persuasive, more urgent, and clearer, while keeping it natural and conversational. Only translate and improve the following funnel, don't explain anything.
-Rules:
-Do not change meaning
-Keep it natural for native speakers
-Keep urgency and persuasion
-translate all text, text buttons, headlines, paragraphs, testimonials, footers, checkboxes, buttons, faq, all text the will be seen in the website.
-
-Every time the funnel mentions any country, make sure it’s Germany
-The Germany flag must be used throughout the funnel, never a different one, if none dont add
-Please convert the currency to EUR, convert the price into EUR
-
 
 
 Translate the content of this funnel from English to german.
@@ -53,48 +62,79 @@ Do not translate brand names, product names, or URLs
 Keep headings, buttons, menus, and CTA text concise
 Preserve formatting, HTML tags, and placeholders ({{ }}, %s, etc.)
 Adapt idioms or phrases so they sound natural in the target language
+Every time the funnel mentions any country  or place or location, make sure it’s Germany
 
 Output only the translated text, keeping the same structure.
-convert all price to Euro and the currency
+convert all price to EUR and the currency
 use python script
 
-
-can you translate all visible text from paragraph, header, list, buttons, testimonials, accordion, small text, footer, etc. to german
-
----------------------------------------------------
-
+use 1st offer price for the  price outside the offer section
 change the offer price to this
 
 
+---------------------------------------------------
 
-OFFER 1: Buy 1 Get 1 Free
-• Total Units: 2
-• Selling Price: €29.99
-• Original Total (strikethrough): €119.99
-• Discount Badge: 75% OFF
-• Per Bottle Price: €14.99
-• You Save: €89.99
+Translate the content of this funnel from English to Spanish.
 
-OFFER 2: Buy 2 Get 2 Free
-• Total Units: 4
-• Selling Price: €49.99
-• Original Total (strikethrough): €239.99
-• Discount Badge: 79% OFF
-• Per Bottle Price: €11.99
-• You Save: €189.99
+Requirements:
 
-OFFER 3: Buy 3 Get 3 Free
-• Total Units: 6
-• Selling Price: €69.99
-• Original Total (strikethrough): €359.99
-• Discount Badge: 81% OFF
-• Per Bottle Price: €11.99
-• You Save: €289.99
+Keep the meaning accurate and natural for native speakers
+Maintain a professional, friendly website tone
+Do not translate brand names, product names, or URLs
+Keep headings, buttons, menus, and CTA text concise
+Preserve formatting, HTML tags, and placeholders ({{ }}, %s, etc.)
+Adapt idioms or phrases so they sound natural in the target language
+Every time the funnel mentions any country  or place or location, make sure it’s Mexico
+
+Output only the translated text, keeping the same structure.
+convert all price to MXN and the currency
+use python script
+use 1st offer price for the  price outside the offer section
+change the offer price to this
 
 
+---------------------------------------------------
 
-use offer 1 for price outside the offer section
-convert also the other price outside the offer section
+
+Translate the content of this funnel from English to Italian.
+
+Requirements:
+
+Keep the meaning accurate and natural for native speakers
+Maintain a professional, friendly website tone
+Do not translate brand names, product names, or URLs
+Keep headings, buttons, menus, and CTA text concise
+Preserve formatting, HTML tags, and placeholders ({{ }}, %s, etc.)
+Adapt idioms or phrases so they sound natural in the target language
+Every time the funnel mentions any country  or place or location, make sure it’s Italy
+
+Output only the translated text, keeping the same structure.
+convert all price to EUR and the currency
+use python script
+use 1st offer price for the  price outside the offer section
+change the offer price to this
+
+
+---------------------------------------------------
+
+Translate the content of this funnel from English to France.
+
+Requirements:
+
+Keep the meaning accurate and natural for native speakers
+Maintain a professional, friendly website tone
+Do not translate brand names, product names, or URLs
+Keep headings, buttons, menus, and CTA text concise
+Preserve formatting, HTML tags, and placeholders ({{ }}, %s, etc.)
+Adapt idioms or phrases so they sound natural in the target language
+Every time the funnel mentions any country  or place or location, make sure it’s France
+
+Output only the translated text, keeping the same structure.
+convert all price to EUR and the currency
+use python script
+use 1st offer price for the  price outside the offer section
+change the offer price to this
+
 ---------------------------------------------------
  <h1 style="font-size: 44px; font-weight: bold; color:black;">BioEdge™ </h1>
 
@@ -127,83 +167,6 @@ convert also the other price outside the offer section
 
 ---------------------------------------------------
 
-    <style>
-        section .funnel-row {
-            max-width: 100% !important;
-        }
-
-        font {
-            display: inline;
-        }
-
-        .paragraph,
-        .paragraph-inner {
-            white-space: normal !important;
-        }
-
-        .headline-inner p,
-        .headline-inner span,
-        .headline-inner h3,
-        .headline-inner h2,
-        .headline-inner h1,
-        .headline-inner h4,
-        .headline-inner h5 {
-            white-space: normal !important;
-        }
-
-        .paragraph-inner p,
-        .paragraph-inner span,
-        .paragraph-inner h3,
-        .paragraph-inner h2,
-        .paragraph-inner h1,
-        .paragraph-inner h4,
-        .paragraph-inner h5 {
-            white-space: normal !important;
-        }
-
-        p,
-        span,
-        h3,
-        h2,
-        h1,
-        h4,
-        h5 {
-            white-space: normal !important;
-        }
-
-        strong {
-            white-space: normal !important;
-        }
-
-        @media screen and (max-width: 750px) {
-            .gradient {
-                max-width: 99.9% !important;
-            }
-        }
-    </style>
-
-
----------------------------------------------------
-
-<h1 style="font-size:44px color:green; font-weight:bold;">BioEase™</h1>
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Fast shipping & lifetime warranty
-Unique offer!from & lifetime warranty Delivery twice as fast • Money back guarantee! Everything for only R79  
-
-this part change it to 
-
-60 DAYS MONEY BACK GUARANTEE
-FREE SHIPPING
-
-and remove the check box replace it with check icon
-
-
-
     <script>
         window.addEventListener("contextmenu", (e) => {
             e.preventDefault();
@@ -234,7 +197,7 @@ and remove the check box replace it with check icon
         })
     </script>
 
-
+---------------------------------------------------
 
 accordion
 
